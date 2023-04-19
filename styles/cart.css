@@ -1,0 +1,69 @@
+
+.icon-hover-primary:hover {
+  border-color: #3b71ca !important;
+  background-color: white !important;
+}
+
+.icon-hover-primary:hover i {
+  color: #3b71ca !important;
+}
+.icon-hover-danger:hover {
+  border-color: #dc4c64 !important;
+  background-color: white !important;
+}
+
+.icon-hover-danger:hover i {
+  color: #dc4c64 !important;
+}
+.back-to-top {
+  background-color: var(--second-header-bg);
+  color: white;
+  width: 100%;
+  height: 3rem;
+  text-align: center;
+}
+.back-to-top:hover {
+  background-color: #1a232e;
+}
+#b-t-top {
+  text-decoration: none;
+}
+
+/* footer */
+.amazon-footer {
+  background-color: var(--main-header-bg);
+  color: white;
+  padding: 5%;
+}
+
+.amazon-footer-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.amazon-row {
+  display: flex;
+  justify-content: space-between;
+}
+.amazon-footer-list {
+  list-style: none;
+}
+.amazon-footer-list li a {
+  text-decoration: none;
+  color: white;
+}
+.amazon-footer-list li a:hover {
+  text-decoration: underline;
+}
+
+.amazon-sub-footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 8%;
+}
+.buy button {
+  background-color: #232f3e;
+  color: white;
+  margin: 2px;
+}
+

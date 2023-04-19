@@ -1,0 +1,228 @@
+#amazonSVG {
+  margin: 0 auto;
+  width: 370px;
+  display: flex;
+  justify-content: space-around;
+}
+
+svg {
+  height: 50px;
+  width: 100px;
+  display: block;
+}
+
+#linkSVG {
+  margin: 0;
+}
+
+#amazon {
+  width: 320px;
+  height: 33px;
+  font-size: 14px;
+  background: linear-gradient(#f7dea1, #f0c14d);
+  border: 0.5px solid #aaaaaa;
+  border-radius: 3px;
+  margin: 20px 0;
+  cursor: pointer;
+}
+.upamazon input {
+  margin-bottom: 10px;
+}
+#amazon:hover {
+  background: linear-gradient(#f5d68a, #eeba36);
+  isolation: isolate;
+}
+
+body {
+  font-size: 13px;
+  line-height: 19px;
+  color: #111;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
+
+#myForm {
+  position: static;
+  margin: 0 auto;
+  border-color: #dddddd;
+  border: 0.5px solid #dddddd;
+  border-radius: 7px;
+  width: 320px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+input {
+  border-radius: 4px;
+  border-width: 1px;
+  height: 27px;
+  width: 315px;
+  margin-bottom: 15px;
+}
+
+input:focus {
+  box-shadow: 0px 0px 1.5px 1.5px rgba(231, 118, 0, 0.9);
+  outline: 0;
+  isolation: isolate;
+}
+
+#SignInTxt {
+  font-family: Arial, sans-serif;
+  font-size: 26.5px;
+  margin-bottom: 6%;
+  margin-top: 9%;
+}
+
+h2 {
+  color: rgb(134, 134, 134);
+  font-weight: normal;
+  letter-spacing: 1px;
+  font-size: 11.5px;
+  width: 370px;
+  text-align: center;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+  margin-bottom: 8px;
+}
+
+h2 span {
+  background: #fff;
+  padding: 0 10px;
+}
+
+#newAcco {
+  margin: 0 auto;
+  width: 370px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 2%;
+}
+
+#createAccount {
+  margin-top: 30px;
+}
+
+#newAccount {
+  background: linear-gradient(#f6f7f9, #e7e9ec);
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 370px;
+  height: 36px;
+  font-size: 14px;
+  border: 0.5px solid;
+  border-color: #adb1b886;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+#newAccount:hover {
+  background: linear-gradient(#f5f6f8, #d9dce1);
+  isolation: isolate;
+}
+
+#footer {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  margin-top: 10px;
+}
+
+.extra {
+  margin: 0 auto;
+  width: 370px;
+}
+
+a:link {
+  font-size: 12px;
+
+  margin-right: 10px;
+  text-decoration: none;
+  color: #0066c0;
+}
+
+a:hover {
+  fill: #0066c0;
+  text-decoration: underline;
+  color: rgb(221, 62, 14) !important;
+}
+
+a:visited {
+  color: #0066c0;
+}
+
+.links {
+  font-size: 10px;
+  text-align: center;
+  padding-left: 15px;
+}
+
+#labelf {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#password {
+  margin: 0%;
+}
+
+#special {
+  font-size: 11px;
+  color: #555 !important;
+}
+
+#amazonSVG {
+  margin: 0 auto;
+  width: 370px;
+  display: flex;
+  justify-content: space-around;
+}
+svg {
+  height: 50px;
+  width: 100px;
+  display: block;
+}
+#linkSVG {
+  margin: 0;
+}
+#createAccount {
+  border-spacing: 0;
+  letter-spacing: 0;
+}
+.dot {
+  margin-left: -8px;
+  font-size: 18px;
+}
+#Agreeing {
+  text-align: left;
+}
+
+.footerInOut {
+  background-color: #232f3e;
+  color: white;
+  padding: 30px 10px;
+  text-align: center;
+  font-size: 18px;
+  isolation: isolate;
+}
+.footerInOut a {
+  text-decoration: none;
+  color: cyan;
+  font-size: 18px;
+}
+.footerInOut a:hover {
+  text-decoration: none;
+  color: red;
+}
+.footerInOut span {
+  font-size: 14px;
+  font-weight: bold;
+  color: #ff9000;
+}

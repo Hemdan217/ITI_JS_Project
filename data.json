@@ -1,0 +1,1966 @@
+[
+  {
+    "id": 1,
+    "name": "Chicbuy Laptop, 12GB RAM",
+    "url": "https://m.media-amazon.com/images/I/61OVtzYV1dL._AC_SX679_.jpg",
+    "price": 399.99,
+    "description": {
+      "Brand": "Chicbuy",
+      "Series": "LT1501",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "12 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "CPU Speed": "2.9 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "HP 2022 Newest Envy",
+    "url": "https://m.media-amazon.com/images/I/81shyqPDp+L._AC_SX355_.jpg",
+    "price": 656.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP ENVY",
+      "Screen Size": "15 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Ryzen 5",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "AMD Radeon Graphics"
+    }
+  },
+  {
+    "id": 3,
+    "name": "SAMSUNG 2022 14\u201d FHD(1920",
+    "url": "https://m.media-amazon.com/images/I/51Afm88Bq0L._AC_SX450_.jpg",
+    "price": 197.99,
+    "description": {
+      "Brand": "SAMSUNG",
+      "Series": "Samsung",
+      "Screen Size": "14 Inches",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Snapdragon",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Qualcomm",
+      "CPU Speed": "2.55 GHz"
+    }
+  },
+  {
+    "id": 4,
+    "name": "HP Pavilion 17.3-inch IPS",
+    "url": "https://m.media-amazon.com/images/I/61v0NpBzDuL._AC_SX450_.jpg",
+    "price": 579.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "Pavilion",
+      "Screen Size": "17.3 Inches",
+      "Color": "Natural Silver",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Intel Core i5-1135G7",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel Iris Xe Graphics"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Lenovo 2022 Newest Ideapad",
+    "url": "https://m.media-amazon.com/images/I/81M05PyYgYL._AC_SX450_.jpg",
+    "price": 364.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "Ideapad",
+      "Screen Size": "15.6 Inches",
+      "Color": "Platinum Grey",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Intel Core i3",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Intel UHD Graphics",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 6,
+    "name": "HP 15.6in Laptop (Intel",
+    "url": "https://m.media-amazon.com/images/I/717ywJDnAHL._AC_SY355_.jpg",
+    "price": 249.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP-15.6-RP",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "128 GB",
+      "CPU Model": "Pentium N5000",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 10 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel",
+      "CPU Speed": "1.1 GHz"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Dell Latitude 5580 Intel",
+    "url": "https://m.media-amazon.com/images/I/41KDHPYr5QL._AC_SX355_.jpg",
+    "price": 325.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "Dell Latitude",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Core i7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 10",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "620",
+      "CPU Speed": "3.5 GHz"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Samsung Chromebook 3 Intel",
+    "url": "https://m.media-amazon.com/images/I/61XDaod47LL._AC_SX355_.jpg",
+    "price": 89.99,
+    "description": {
+      "Brand": "SAMSUNG",
+      "Series": "XE500C13-S03US",
+      "Screen Size": "11.6 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "16 GB",
+      "CPU Model": "Intel Celeron D",
+      "Ram Memory Installed Size": "2 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Integrated"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Dell Newest Inspiron 15",
+    "url": "https://m.media-amazon.com/images/I/71lsq9TesJL._AC_SX355_.jpg",
+    "price": 515.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "Inspiron",
+      "Screen Size": "15.6 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Core i5 Family",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Samsung Chromebook 4 Chrome",
+    "url": "https://m.media-amazon.com/images/I/61X3g56kwfL._AC_SX355_.jpg",
+    "price": 104.99,
+    "description": {
+      "Brand": "SAMSUNG",
+      "Series": "Samsung Chromebook",
+      "Screen Size": "11.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "32 GB",
+      "CPU Model": "Celeron N4000",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel Celeron Processor N4000"
+    }
+  },
+  {
+    "id": 11,
+    "name": "jumper Laptop 14 inch",
+    "url": "https://m.media-amazon.com/images/I/81Es3dtZkWL._AC_SX450_.jpg",
+    "price": 289.99,
+    "description": {
+      "Brand": "Jumper",
+      "Series": "EZbook s5",
+      "Screen Size": "14 Inches",
+      "Color": "Gray",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "12 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "CPU Speed": "2.4 GHz"
+    }
+  },
+  {
+    "id": 12,
+    "name": "ASUS Chromebook Flip CM5,",
+    "url": "https://m.media-amazon.com/images/I/71Z2ACp6k4S._AC_SY355_.jpg",
+    "price": 439.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "ASUS Chromebook Flip CM5",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "64",
+      "CPU Model": "Ryzen 3",
+      "Ram Memory Installed Size": "4 GB",
+      "Graphics Coprocessor": "AMD Radeon Graphics",
+      "CPU Speed": "3.5 GHz",
+      "Hard Disk Description": "Emmc",
+      "Resolution": "1080p"
+    }
+  },
+  {
+    "id": 13,
+    "name": "HP 2020 15 15.6\"",
+    "url": "https://m.media-amazon.com/images/I/51y8P2rYc5L._AC_SX355_.jpg",
+    "price": 539.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP i5 touch",
+      "Screen Size": "15.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Core i5 Family",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 10 Home",
+      "Card Description": "Dedicated",
+      "Graphics Coprocessor": "Intel Graphics_coprocessor"
+    }
+  },
+  {
+    "id": 14,
+    "name": "HP 17-inch Laptop, 11th",
+    "url": "https://m.media-amazon.com/images/I/71Jsnu1EdrL._AC_SX466_.jpg",
+    "price": 540.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP Laptop 17-cn0025nr",
+      "Screen Size": "17.3 Inches",
+      "Color": "Natural silver",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Intel Core i5-1135G7",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 11 Home",
+      "Special Feature": "Anti Glare Coating, Memory Card Slot, Numeric Keypad",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 15,
+    "name": "HP 2022 Newest Touch-Screen",
+    "url": "https://m.media-amazon.com/images/I/71svzB+8r+L._AC_SX355_.jpg",
+    "price": 699.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "15.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "1000 GB",
+      "CPU Model": "Intel Core i5",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel",
+      "CPU Speed": "2.4 GHz"
+    }
+  },
+  {
+    "id": 16,
+    "name": "MSI Creator 17 Professional",
+    "url": "https://m.media-amazon.com/images/I/717XHhyGfOL._AC_SY450_.jpg",
+    "price": 1488.99,
+    "description": {
+      "Brand": "MSI",
+      "Series": "Creator 17 B11UE-471",
+      "Screen Size": "17.3 Inches",
+      "Color": "Core Black",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Core i7 Family",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 10 Home",
+      "Special Feature": "Backlit",
+      "Card Description": "RTX 3060"
+    }
+  },
+  {
+    "id": 17,
+    "name": "2022 HP Pavilion 17.3",
+    "url": "https://m.media-amazon.com/images/I/719cKMQiivL._AC_SX450_.jpg",
+    "price": 799.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP Pavilion",
+      "Screen Size": "17.3 Inches",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Resolution": "1080p, 720p",
+      "Item Weight": "5.25 Pounds",
+      "Total USB Ports": "1",
+      " Number of Processors ": "4",
+      "Chipset Brand": "Intel"
+    }
+  },
+  {
+    "id": 18,
+    "name": "LG Gram (2022) 16Z90Q",
+    "url": "https://m.media-amazon.com/images/I/71De29lHiHL._AC_SY355_.jpg",
+    "price": 1318.99,
+    "description": {
+      "Brand": "LG",
+      "Series": "16Z90Q-R.AAS8U1",
+      "Screen Size": "16",
+      "Color": "Gray",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "RTX2050",
+      "Graphics Coprocessor": "NVIDIA GeForce RTX 2050"
+    }
+  },
+  {
+    "id": 19,
+    "name": "HP 2023 Convertible 2-in-1",
+    "url": "https://m.media-amazon.com/images/I/610nIBOhDYL._AC_SX355_.jpg",
+    "price": 209.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP 14\" Chromebook",
+      "Screen Size": "14 Inches",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "CPU Speed": "2.6 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Lenovo Chromebook Ideapad 3",
+    "url": "https://m.media-amazon.com/images/I/61gWHqutfeL._AC_SX355_.jpg",
+    "price": 129.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "Ideapad",
+      "Screen Size": "14 Inches",
+      "CPU Model": "Mobile Intel Celeron Processor",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "2.8 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Windows 11 Laptop, EcoHero",
+    "url": "https://m.media-amazon.com/images/I/71CuLL3QTzL._AC_SY355_.jpg",
+    "price": 349.99,
+    "description": {
+      "Brand": "ECOHERO",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Intel Core i3",
+      "Ram Memory Installed Size": "12 GB",
+      "Operating System": "Windows 11 Pro",
+      "Card Description": "Dedicated",
+      "Graphics Coprocessor": "Intel HD Graphics 5500",
+      "CPU Speed": "2 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Acer 2023 Newest Aspire",
+    "url": "https://m.media-amazon.com/images/I/71dBVJ8R3AL._AC_SX355_.jpg",
+    "price": 408.99,
+    "description": {
+      "Brand": "Acer",
+      "Screen Size": "15.6 Inches",
+      "CPU Model": "Intel Core i3",
+      "Ram Memory Installed Size": "20 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "4.1 GHz",
+      "Resolution": "1080p",
+      "Item Weight": "1.7 Kilograms"
+    }
+  },
+  {
+    "id": 23,
+    "name": "2022 Newest HP Envy",
+    "url": "https://m.media-amazon.com/images/I/81shyqPDp+L._AC_SX355_.jpg",
+    "price": 693.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP ENVY",
+      "Screen Size": "15 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Ryzen 5",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "AMD Radeon Graphics"
+    }
+  },
+  {
+    "id": 24,
+    "name": "ASUS VivoBook Business Laptop,",
+    "url": "https://m.media-amazon.com/images/I/71-f1odl-XL._AC_SY355_.jpg",
+    "price": 429.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "VivoBook",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i3",
+      "Ram Memory Installed Size": "20 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "4.1 GHz"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Lenovo Newest IdeaPad Laptop,",
+    "url": "https://m.media-amazon.com/images/I/71dObvkBmrL._AC_SX450_.jpg",
+    "price": 199.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "Lenovo - Ideapad 1i",
+      "Screen Size": "14 Inches",
+      "Color": "Cloud Grey",
+      "Hard Disk Size": "192 GB",
+      "CPU Model": "Celeron N4020",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11 Home",
+      "Special Feature": "HD Audio",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Lenovo IdeaPad Gaming 3i",
+    "url": "https://m.media-amazon.com/images/I/81o+tfGUudL._AC_SY450_.jpg",
+    "price": 709.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "IdeaPad Gaming 3i",
+      "Screen Size": "15.6 Inches",
+      "Color": "Shadow Black",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Intel Core i5",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Dedicated",
+      "Graphics Coprocessor": "NVIDIA GeForce GTX 1650"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Acer 2022 15inch HD",
+    "url": "https://m.media-amazon.com/images/I/71-QYvMpwGL._AC_SX355_.jpg",
+    "price": 160.99,
+    "description": {
+      "Brand": "Acer",
+      "Series": "IPS Chromebook",
+      "Screen Size": "15 Inches",
+      "Color": "Dale Silver",
+      "Hard Disk Size": "32 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Chrome OS",
+      "Special Feature": "HD Audio",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Dell 2022 Newest Inspiron",
+    "url": "https://m.media-amazon.com/images/I/71NkhRKdoQL._AC_SX355_.jpg",
+    "price": 601.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "Inspiron",
+      "Screen Size": "15.6 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i5-1035G1",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 29,
+    "name": "ASUS Vivobook S 14",
+    "url": "https://m.media-amazon.com/images/I/71H69FbgGkL._AC_SY355_.jpg",
+    "price": 539.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "ASUS Vivobook 14 Laptop",
+      "Screen Size": "14 Inches",
+      "Color": "Quiet Blue",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Ryzen 5",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Windows 11",
+      "Graphics Coprocessor": "Intel Iris"
+    }
+  },
+  {
+    "id": 30,
+    "name": "ASUS 15 Slim Chrome",
+    "url": "https://m.media-amazon.com/images/I/71Eeo7wiHHL._AC_SX355_.jpg",
+    "price": 139.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "Chromebook",
+      "Screen Size": "15.6",
+      "CPU Model": "Intel Mobile CPU",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "CPU Speed": "2.4 GHz",
+      "Hard Disk Description": "SSD",
+      "Resolution": "1080p"
+    }
+  },
+  {
+    "id": 31,
+    "name": "2022 ASUS 14\" Thin",
+    "url": "https://m.media-amazon.com/images/I/71Wf+W0WXCL._AC_SX450_.jpg",
+    "price": 229.99,
+    "description": {
+      "Brand": "ASUS",
+      "Screen Size": "14 Inches",
+      "Color": "Black",
+      "CPU Model": "Celeron N4020",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11 Home",
+      "Resolution": "720p, 4K",
+      "Item Weight": "2.78 Pounds",
+      "Total USB Ports": "3",
+      "Battery Life": "12 Hours"
+    }
+  },
+  {
+    "id": 32,
+    "name": "HP 2022 High Performance",
+    "url": "https://m.media-amazon.com/images/I/611DiOFTVfL._AC_SY355_.jpg",
+    "price": 1256.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "17-CN0065CL",
+      "Screen Size": "17.3 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i7 Family",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11 Pro",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel Iris Xe Graphics"
+    }
+  },
+  {
+    "id": 33,
+    "name": "2022 HP Premium 14-inch",
+    "url": "https://m.media-amazon.com/images/I/71-htOI+ZxL._AC_SY450_.jpg",
+    "price": 399.99,
+    "description": {
+      "Brand": "HP",
+      "Model Name": "Premium",
+      "Screen Size": "14 Inches",
+      "Color": "Rose Gold",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11",
+      "Graphics Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 34,
+    "name": "HP 14 Laptop, AMD",
+    "url": "https://m.media-amazon.com/images/I/710Xk6qr2kL._AC_SX450_.jpg",
+    "price": 499.99,
+    "description": {
+      "Screen Size": "14 Inches",
+      "Display Resolution Maximum": "1366 x 768 Pixels",
+      "Brand": "HP",
+      "Special Feature": "Portable",
+      "Connectivity Technology": "USB, HDMI"
+    }
+  },
+  {
+    "id": 35,
+    "name": "HP 2023 15'' HD",
+    "url": "https://m.media-amazon.com/images/I/51BeFnKDnXL._AC_SX355_.jpg",
+    "price": 285.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP 15\" Laptop",
+      "Screen Size": "15 Inches",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Pentium",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "CPU Speed": "2.7 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Lenovo Newest IdeaPad 1i",
+    "url": "https://m.media-amazon.com/images/I/711GUBGRHcL._AC_SY355_.jpg",
+    "price": 218.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "8VUL0086",
+      "Screen Size": "14 Inches",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Pentium",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11 S",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "3.1 GHz"
+    }
+  },
+  {
+    "id": 37,
+    "name": "ASUS ZenBook Flip S13",
+    "url": "https://m.media-amazon.com/images/I/716MnuVzSJS._AC_SY450_.jpg",
+    "price": 1155.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "ASUS ZenBook Flip S13",
+      "Screen Size": "13.3 Inches",
+      "Color": "Jade Black",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Intel Core i7-1165G7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Pro",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel Iris"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Lenovo IdeaPad 3 Laptop,",
+    "url": "https://m.media-amazon.com/images/I/71E9U6SK0rL._AC_SY450_.jpg",
+    "price": 899.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Model Name": "IdeaPad",
+      "Screen Size": "17.3 Inches",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Intel Core i7",
+      "Ram Memory Installed Size": "36 GB",
+      "Operating System": "Windows 11",
+      "Graphics Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel Iris Xe Graphics",
+      "CPU Speed": "4.7 GHz"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Acer Nitro 5 AN517-55-72R4",
+    "url": "https://m.media-amazon.com/images/I/71WyZCc9HYL._AC_SX450_.jpg",
+    "price": 1299.99,
+    "description": {
+      "Brand": "Acer",
+      "Series": "AN517-55-72R4",
+      "Screen Size": "17.3 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Dedicated",
+      "Graphics Coprocessor": "NVIDIA GeForce RTX 3050 Ti"
+    }
+  },
+  {
+    "id": 40,
+    "name": "HP 2023 11\" HD",
+    "url": "https://m.media-amazon.com/images/I/61p1EFwptJL._AC_SX355_.jpg",
+    "price": 179.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP 11\" Laptop",
+      "Screen Size": "11 Inches",
+      "Color": "Dale White",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windwos 11",
+      "Card Description": "Integrated",
+      "CPU Speed": "2.6 GHz"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Lenovo 2022 Upgraded Ideapad",
+    "url": "https://m.media-amazon.com/images/I/81recNdH9YL._AC_SY355_.jpg",
+    "price": 199.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "Ideapad",
+      "Screen Size": "14 Inches",
+      "Color": "Gray",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron N4020",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel"
+    }
+  },
+  {
+    "id": 42,
+    "name": "2022 HP 14\" HD",
+    "url": "https://m.media-amazon.com/images/I/71uYNt-LpDL._AC_SY450_.jpg",
+    "price": 195.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "14",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11",
+      "Resolution": "4K",
+      "Total USB Ports": "2",
+      " Number of Processors ": "4",
+      "Battery Cell Composition": "Lithium Ion",
+      "Human Interface Input": "Microphone",
+      "Software Included": "Webcam"
+    }
+  },
+  {
+    "id": 43,
+    "name": "2022 Newest Lenovo IdeaPad",
+    "url": "https://m.media-amazon.com/images/I/612fUs8+brL._AC_SY355_.jpg",
+    "price": 269.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "IdeaPad",
+      "Screen Size": "15.6 Inches",
+      "Color": "Grey",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Pentium",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Acer Aspire 3 Slim",
+    "url": "https://m.media-amazon.com/images/I/51+3t-3ZwYL._AC_SY355_.jpg",
+    "price": 419.99,
+    "description": {
+      "Brand": "Acer",
+      "Series": "Aspire 3",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Core i3",
+      "Ram Memory Installed Size": "20 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "4.1 GHz"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Lenovo Ideapad 15.6\" HD",
+    "url": "https://m.media-amazon.com/images/I/71urY7PrOhL._AC_SX450_.jpg",
+    "price": 399.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "Ideapad 1",
+      "Screen Size": "15.6 Inches",
+      "Color": "Cloud Grey",
+      "Hard Disk Size": "1152 GB",
+      "CPU Model": "Athlon 3050U",
+      "Ram Memory Installed Size": "20 GB",
+      "Operating System": "Windows 11 S",
+      "Special Feature": "HD Audio",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 46,
+    "name": "HP Pavilion Laptop (2022",
+    "url": "https://m.media-amazon.com/images/I/71xV1BZxqLL._AC_SY355_.jpg",
+    "price": 549.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "Pavilion",
+      "Screen Size": "15.6 Inches",
+      "Color": "Natural Silver",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Ryzen 3 3250U",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 10 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "AMD Radeon Graphics"
+    }
+  },
+  {
+    "id": 47,
+    "name": "HP 14 Laptop, Intel",
+    "url": "https://m.media-amazon.com/images/I/818vEGdvS+S._AC_SX466_.jpg",
+    "price": 199.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "14-dq0030nr",
+      "Screen Size": "14 Inches",
+      "Color": "Pale rose gold",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 10 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics 600"
+    }
+  },
+  {
+    "id": 48,
+    "name": "MSI Raider GE77Hx 17.3\"",
+    "url": "https://m.media-amazon.com/images/I/717Wz1EAR5L._AC_SY355_.jpg",
+    "price": 949.99,
+    "description": {
+      "Brand": "MSI",
+      "Series": "Raider GE77HX 12UGS-004",
+      "Screen Size": "17.3 Inches",
+      "Color": "Blue",
+      "CPU Model": "Core i7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Pro",
+      "Special Feature": "Dedicated",
+      "Card Description": "NVIDIA GeForce RTX 3070"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Apple MacBook Air with",
+    "url": "https://m.media-amazon.com/images/I/6157eU56s2L._AC_SY355_.jpg",
+    "price": 234.99,
+    "description": {
+      "Brand": "Apple",
+      "Series": "MacBook Air",
+      "Screen Size": "13.3 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "128 GB",
+      "CPU Model": "Core i5",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Mac OS",
+      "Special Feature": "Backlit Keyboard, HD Audio",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 50,
+    "name": "ASUS 2022 14\" FHD",
+    "url": "https://m.media-amazon.com/images/I/61BE2ujrzOL._AC_SX355_.jpg",
+    "price": 199.99,
+    "description": {
+      "Brand": "ASUS",
+      "Screen Size": "14 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Core M Family",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel HD Graphics 500",
+      "CPU Speed": "1.1 GHz"
+    }
+  },
+  {
+    "id": 51,
+    "name": "MSI Stealth 15M Gaming",
+    "url": "https://m.media-amazon.com/images/I/71p3Ygm14wL._AC_SX679_.jpg",
+    "price": 1099.99,
+    "description": {
+      "Brand": "MSI",
+      "Series": "Stealth 15M A11UEK-009",
+      "Screen Size": "15.6 Inches",
+      "Color": "Carbon Gray",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Core i7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 10 Home",
+      "Card Description": "Dedicated",
+      "Graphics Coprocessor": "NVIDIA GeForce RTX 3060"
+    }
+  },
+  {
+    "id": 52,
+    "name": "MSI GF63 Thin 9RCX",
+    "url": "https://m.media-amazon.com/images/I/51BNckWotKL._AC_SY450_.jpg",
+    "price": 619.99,
+    "description": {
+      "Brand": "MSI",
+      "Series": "GF63 THIN 9RCX-615",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Intel Core i7",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 10",
+      "Card Description": "Dedicated",
+      "Graphics Coprocessor": "NVIDIA GeForce GTX 1050 Ti",
+      "CPU Speed": "2.4 GHz"
+    }
+  },
+  {
+    "id": 53,
+    "name": "HP 15.6\" HD Touchscreen",
+    "url": "https://m.media-amazon.com/images/I/81TUgaBu7jL._AC_SX355_.jpg",
+    "price": 501.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP 15",
+      "Screen Size": "15.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Core i5",
+      "Ram Memory Installed Size": "12 GB",
+      "Operating System": "Windows 11 S",
+      "Special Feature": "Touchscreen Laptop, I5 Laptop, Windows Laptop",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 54,
+    "name": "HP 2022 14\" HD",
+    "url": "https://m.media-amazon.com/images/I/61KLc+mj2GL._AC_SX355_.jpg",
+    "price": 449.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP 14",
+      "Screen Size": "14 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Ryzen 3",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11 S",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "AMD Radeon Graphics"
+    }
+  },
+  {
+    "id": 55,
+    "name": "HP Premium Laptop (2021",
+    "url": "https://m.media-amazon.com/images/I/71WkeQeyxkL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "price": 399.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "Premium",
+      "Screen Size": "14 Inches",
+      "Hard Disk Size": "192 GB",
+      "CPU Model": "Athlon Silver 3050U",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 10",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "AMD Radeon Graphics",
+      "CPU Speed": "3.2 GHz"
+    }
+  },
+  {
+    "id": 56,
+    "name": "2022 HP Premium 14-inch",
+    "url": "https://m.media-amazon.com/images/I/71QvTg+BX5L._AC_SY450_.jpg",
+    "price": 369.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "14 Inches",
+      "Color": "Snow White",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron N4020",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11",
+      "Graphics Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "2.6 GHz"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Lenovo Flex 5 Laptop,",
+    "url": "https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SX450_.jpg",
+    "price": 609.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "Lenovo ideapad Flex 5",
+      "Screen Size": "14 Inches",
+      "Color": "Graphite Grey",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Ryzen 5 5500U",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11",
+      "Special Feature": "Fingerprint Reader, Backlit Keyboard",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 58,
+    "name": "ASUS Laptop L210 11.6\u201d",
+    "url": "https://m.media-amazon.com/images/I/810BY5U9baL._AC_SY355_.jpg",
+    "price": 147.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "ASUS L210",
+      "Screen Size": "11.6 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron N4020",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 10 S",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics 600"
+    }
+  },
+  {
+    "id": 59,
+    "name": "HP 15 Laptop, 11th",
+    "url": "https://m.media-amazon.com/images/I/81skV7BufjL._AC_SY450_.jpg",
+    "price": 449.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP Laptop 15-dy2021nr",
+      "Screen Size": "15.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Core i5",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 10 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel Iris"
+    }
+  },
+  {
+    "id": 60,
+    "name": "ASUS ROG Strix Scar",
+    "url": "https://m.media-amazon.com/images/I/71IA+MeLP2L._AC_SY450_.jpg",
+    "price": 3103.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "ROG Strix SCAR 15 Gaming Laptop",
+      "Screen Size": "15.6 Inches",
+      "Color": "Off Black",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Intel Core i9",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Microsoft Windows 11 Professional",
+      "Card Description": "RTX 3080 Ti",
+      "Graphics Coprocessor": "NVIDIA GeForce RTX 3080 Ti"
+    }
+  },
+  {
+    "id": 61,
+    "name": "2022 Newest Dell Inspiron",
+    "url": "https://m.media-amazon.com/images/I/81YXo+mgfAS._AC_SX355_.jpg",
+    "price": 497.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "Dell Inspiron",
+      "Screen Size": "15.6 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "128 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 10",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Apple 2023 MacBook Pro",
+    "url": "https://m.media-amazon.com/images/I/61fd2oCrvyL._AC_SX342_.jpg",
+    "price": 99.99,
+    "description": {
+      "Brand": "Apple",
+      "Model Name": "MacBook Pro",
+      "Screen Size": "16.2 Inches",
+      "Color": "Space Gray",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Unknown",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Mac OS",
+      "Graphics Card Description": "Integrated",
+      "Graphics Coprocessor": "Apple M2 Pro"
+    }
+  },
+  {
+    "id": 63,
+    "name": "2022 HP Envy x360",
+    "url": "https://m.media-amazon.com/images/I/51nu+lkpflL._AC_SY355_.jpg",
+    "price": 679.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "Intel Core i5",
+      "Screen Size": "15.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Intel Core i5",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel Iris Xe Graphics"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Dell Latitude 5480 |",
+    "url": "https://m.media-amazon.com/images/I/61R5Jq+v-pL._AC_SY355_.jpg",
+    "price": 219.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "Latitude 14-5480",
+      "Screen Size": "14 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Core i5",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 10 Pro",
+      "Card Description": "Integrated",
+      "CPU Speed": "2.4 GHz"
+    }
+  },
+  {
+    "id": 65,
+    "name": "2022 Newest HP Laptop",
+    "url": "https://m.media-amazon.com/images/I/716frijAb7L._AC_SY355_.jpg",
+    "price": 549.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "15.6 Inches",
+      "Color": "Gold",
+      "Hard Disk Size": "1000 GB",
+      "CPU Model": "Athlon Silver 3050U",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "AMD",
+      "CPU Speed": "2.3 GHz"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Lenovo IdeaPad 3 Laptop,",
+    "url": "https://m.media-amazon.com/images/I/71egcGQZq2L._AC_SY355_.jpg",
+    "price": 669.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "IdeaPad 3",
+      "Screen Size": "14 Inches",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i7",
+      "Ram Memory Installed Size": "20 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel Iris Xe Graphics",
+      "CPU Speed": "4.7 GHz"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Acer Chromebook 311 Laptop",
+    "url": "https://m.media-amazon.com/images/I/81EgKlXl7JL._AC_SX355_.jpg",
+    "price": 145.99,
+    "description": {
+      "Brand": "Acer",
+      "Series": "CB311-10H-42LY",
+      "Screen Size": "11.6 Inches",
+      "Color": "Black",
+      "CPU Model": "AMD A4",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Shared",
+      "CPU Speed": "2.4 GHz"
+    }
+  },
+  {
+    "id": 68,
+    "name": "HP 17.3\" FHD Laptop,",
+    "url": "https://m.media-amazon.com/images/I/714SVgBCKEL._AC_SY450_.jpg",
+    "price": 572.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "13.7 Inches",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Intel Core i5",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel\u00ae Iris\u00ae X\u1d49 Graphics",
+      "CPU Speed": "4.2 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 69,
+    "name": "LG gram (2022) 16T90Q",
+    "url": "https://m.media-amazon.com/images/I/61to7nVcUgL._AC_SY450_.jpg",
+    "price": 1483.99,
+    "description": {
+      "Brand": "LG",
+      "Series": "16T90Q-K.ADB8U1",
+      "Screen Size": "16",
+      "Color": "Black",
+      "Hard Disk Size": "2 TB",
+      "CPU Model": "Core i7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Special Feature": "Lightweight",
+      "Card Description": "Intel XE"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Dell Newest Inspiron 15",
+    "url": "https://m.media-amazon.com/images/I/71ziMqxbhIL._AC_SX355_.jpg",
+    "price": 599.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "Dell Inspiron 15 3511",
+      "Screen Size": "15.6 Inches",
+      "CPU Model": "Intel Core i5",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "3.6 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 71,
+    "name": "HP 15.6\" Laptop, Intel",
+    "url": "https://m.media-amazon.com/images/I/71fXQtWPUqL._AC_SY450_.jpg",
+    "price": 572.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Intel Core i5",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11",
+      "Graphics Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "4.2 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 72,
+    "name": "2022 HP Pavilion 17",
+    "url": "https://m.media-amazon.com/images/I/81y-IYthAyL._AC_SX450_.jpg",
+    "price": 549.99,
+    "description": {
+      "Brand": "HP",
+      "Model Name": "HP Pavilion",
+      "Screen Size": "17.3 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core I3 1115G4",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "2.4 GHz"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Dell 11-3120 Intel Celeron",
+    "url": "https://m.media-amazon.com/images/I/51a6-fr-SpL._AC_SX355_.jpg",
+    "price": 64.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "Chromebook 11",
+      "Screen Size": "11.6 Inches",
+      "Hard Disk Size": "16 GB",
+      "CPU Model": "Unknown",
+      "Ram Memory Installed Size": "2 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Integrated Graphics",
+      "CPU Speed": "2.16 GHz"
+    }
+  },
+  {
+    "id": 74,
+    "name": "HP 15.6 INCH FHD",
+    "url": "https://m.media-amazon.com/images/I/71rxwKktGRL._AC_SX355_.jpg",
+    "price": 549.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "15.6 Inches",
+      "Color": "Blue",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "AMD R Series",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "AMD Radeon Graphics",
+      "CPU Speed": "4 GHz"
+    }
+  },
+  {
+    "id": 75,
+    "name": "HP 14 Laptop, AMD",
+    "url": "https://m.media-amazon.com/images/I/710Xk6qr2kL._AC_SX450_.jpg",
+    "price": 499.99,
+    "description": {
+      "Screen Size": "14 Inches",
+      "Display Resolution Maximum": "1366 x 768 Pixels",
+      "Brand": "HP",
+      "Special Feature": "Portable",
+      "Connectivity Technology": "USB, HDMI"
+    }
+  },
+  {
+    "id": 76,
+    "name": "HP 15 Notebook, 15.6\"",
+    "url": "https://m.media-amazon.com/images/I/71on4mHJNxL._AC_SX355_.jpg",
+    "price": 504.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "Notebook",
+      "Screen Size": "15.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i3 Family",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 77,
+    "name": "2022 HP Premium 14-inch",
+    "url": "https://m.media-amazon.com/images/I/71k0pAvdrjL._AC_SY450_.jpg",
+    "price": 399.99,
+    "description": {
+      "Brand": "HP",
+      "Model Name": "Premium",
+      "Screen Size": "14 Inches",
+      "Color": "Indigo Blue",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11",
+      "Graphics Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 78,
+    "name": "HP Pavilion x360 Laptop",
+    "url": "https://m.media-amazon.com/images/I/61FFu8Yi0TL._AC_SY450_.jpg",
+    "price": 849.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP Pavilion x360 14T",
+      "Screen Size": "14 Inches",
+      "Color": "Natural Silver",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Core i5",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Pro",
+      "Card Description": "Integrated",
+      "CPU Speed": "3.7 GHz"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Lenovo - 2022 -",
+    "url": "https://m.media-amazon.com/images/I/81uDDuBAwpL._AC_SY450_.jpg",
+    "price": 299.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "IdeaPad Flex 5i Chromebook",
+      "Screen Size": "13.3",
+      "Color": "Abyss Blue",
+      "Hard Disk Size": "128 GB",
+      "CPU Model": "Core i3",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Lenovo Thinkpad Yoga 11e",
+    "url": "https://m.media-amazon.com/images/I/51OwzMVaF9L._AC_SX355_.jpg",
+    "price": 199.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "Lenovo Thinkpad Yoga",
+      "Screen Size": "11.6 Inches",
+      "Hard Disk Size": "128 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 10 Pro",
+      "Card Description": "Integrated",
+      "CPU Speed": "1.83 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 81,
+    "name": "2022 HP Premium 14-inch",
+    "url": "https://m.media-amazon.com/images/I/71-htOI+ZxL._AC_SY450_.jpg",
+    "price": 339.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "14 Inches",
+      "Color": "Rose Gold",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 11",
+      "Graphics Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "2.6 GHz"
+    }
+  },
+  {
+    "id": 82,
+    "name": "HP 17 Laptop PC,",
+    "url": "https://m.media-amazon.com/images/I/81VZGpB+RrL._AC_SX355_.jpg",
+    "price": 434.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP Laptop 17-by4025nr",
+      "Screen Size": "17.3 Inches",
+      "Color": "Natural Silver",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Intel Core i3",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11 Home",
+      "Special Feature": "Numeric Keypad",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 83,
+    "name": "ASUS VivoBook Business Laptop,",
+    "url": "https://m.media-amazon.com/images/I/71-f1odl-XL._AC_SY355_.jpg",
+    "price": 429.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "VivoBook",
+      "Screen Size": "15.6 Inches",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i3",
+      "Ram Memory Installed Size": "20 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "4.1 GHz"
+    }
+  },
+  {
+    "id": 84,
+    "name": "2022 Dell G15 Gaming",
+    "url": "https://m.media-amazon.com/images/I/81cB0DaZKAL._AC_SX355_.jpg",
+    "price": 949.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "G15 5520",
+      "Screen Size": "15.6 Inches",
+      "Color": "Dark Shadow Grey",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i7 Family",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11 Pro",
+      "Card Description": "Dedicated",
+      "Graphics Coprocessor": "NVIDIA GeForce RTX 3060"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Newest HP 14\" HD",
+    "url": "https://m.media-amazon.com/images/I/61MGsq1ZVaL._AC_SX355_.jpg",
+    "price": 239.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "14 Inches",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11",
+      "CPU Speed": "2.6 GHz",
+      "Hard Disk Description": "SSD",
+      "Resolution": "720p, 4K",
+      "Total USB Ports": "3",
+      " Number of Processors ": "2"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Dell 2022 Newest Inspiron",
+    "url": "https://m.media-amazon.com/images/I/81QjZasTdyL._AC_SY355_.jpg",
+    "price": 439.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "Inspiron",
+      "Screen Size": "15.6 Inches",
+      "Color": "Black",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Celeron N4020",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 87,
+    "name": "2023 Newest Acer Aspire",
+    "url": "https://m.media-amazon.com/images/I/71DhkHs4pqL._AC_SX355_.jpg",
+    "price": 519.99,
+    "description": {
+      "Brand": "Acer",
+      "Series": "Acer Aspire",
+      "Screen Size": "15.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Ryzen 3 3350U",
+      "Ram Memory Installed Size": "20 GB",
+      "Operating System": "Windows 11 S",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "\u200eRadeon Vega 6 Graphics"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Ruzava 14\" Laptop 6GB",
+    "url": "https://m.media-amazon.com/images/I/71cv2Cgnp4L._AC_SY450_.jpg",
+    "price": 269.99,
+    "description": {
+      "Brand": "Ruzava",
+      "Series": "W7",
+      "Screen Size": "14 Inches",
+      "Color": "Rose Gold",
+      "Hard Disk Size": "128 GB",
+      "CPU Model": "Celeron N4020",
+      "Ram Memory Installed Size": "6 GB",
+      "Operating System": "Windows 10",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel N4020"
+    }
+  },
+  {
+    "id": 89,
+    "name": "OTVOC Laptop 15.6 inch",
+    "url": "https://m.media-amazon.com/images/I/71Ezvxd+uiL._AC_SY355_.jpg",
+    "price": 399.99,
+    "description": {
+      "Brand": "OTVOC",
+      "Series": "VocBook 15",
+      "Screen Size": "15.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Special Feature": "Numerical keyboard, 512GB SSD, 17000mah battery, 16gb ram, Pcie based SSD",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 90,
+    "name": "SAMSUNG 16\u201d Galaxy Book3",
+    "url": "https://m.media-amazon.com/images/I/615XpdZhf3L._AC_SX355_.jpg",
+    "price": 1549.99,
+    "description": {
+      "Brand": "SAMSUNG",
+      "Model Name": "Galaxy Book3 Pro",
+      "Screen Size": "14 Inches",
+      "Color": "Beige",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Intel Core i7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Graphics Card Description": "Integrated",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 91,
+    "name": "HP Laptop, 17\" HD+",
+    "url": "https://m.media-amazon.com/images/I/519xHdmnNyL._AC_SX450_.jpg",
+    "price": 779.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "17.3 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Intel Core i5",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11",
+      "Graphics Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel Iris Xe Graphics",
+      "CPU Speed": "4.2 GHz"
+    }
+  },
+  {
+    "id": 92,
+    "name": "HP Chromebook 14a-na0052tg 14\"",
+    "url": "https://m.media-amazon.com/images/I/61pnKL7CScL._AC_SX355_.jpg",
+    "price": 120.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "Intel Celeron N4120",
+      "Screen Size": "14 Inches",
+      "CPU Model": "Celeron N",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics 600",
+      "CPU Speed": "2.4 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Samsung XE303C12-A01US Samsung Exynos",
+    "url": "https://m.media-amazon.com/images/I/71v3YZwQoQL._AC_SY355_.jpg",
+    "price": 65.99,
+    "description": {
+      "Brand": "SAMSUNG",
+      "Series": "CRT2SAMXE303C12A01US",
+      "Screen Size": "11.6 Inches",
+      "Color": "Silver",
+      "Hard Disk Size": "16 GB",
+      "CPU Model": "Exynos 5250",
+      "Ram Memory Installed Size": "2 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "ARM Graphics"
+    }
+  },
+  {
+    "id": 94,
+    "name": "ASUS Newest Vivobook 17.3\"",
+    "url": "https://m.media-amazon.com/images/I/712HUwWu9xL._AC_SX450_.jpg",
+    "price": 499.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "ASUS VivoBook",
+      "Screen Size": "17.3 Inches",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Intel Core i5",
+      "Ram Memory Installed Size": "12 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel HD Graphics 5000",
+      "CPU Speed": "1 GHz"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Dell 11'' HD IPS",
+    "url": "https://m.media-amazon.com/images/I/61OZDcgDjjL._AC_SX355_.jpg",
+    "price": 59.99,
+    "description": {
+      "Brand": "Dell",
+      "Series": "Dell 11\" Chromebook",
+      "Screen Size": "11 Inches",
+      "Hard Disk Size": "16 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Chrome OS",
+      "Card Description": "Integrated",
+      "CPU Speed": "2.4 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 96,
+    "name": "ASUS 2022 14\" HD",
+    "url": "https://m.media-amazon.com/images/I/618gumb9jCL._AC_SX355_.jpg",
+    "price": 229.99,
+    "description": {
+      "Brand": "ASUS",
+      "Screen Size": "14 Inches",
+      "Color": "Rose Gold",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron N",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11 S",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel HD Graphics 500",
+      "CPU Speed": "1.1 GHz"
+    }
+  },
+  {
+    "id": 97,
+    "name": "HP Pavilion Laptop (2022",
+    "url": "https://m.media-amazon.com/images/I/711yMY-peLL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 469.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "Pavilion",
+      "Screen Size": "15.6 Inches",
+      "Color": "Scarlet Red",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "32 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics 600"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Microsoft Surface Laptop Go",
+    "url": "https://m.media-amazon.com/images/I/61kUYN84XVL._AC_SX355_.jpg",
+    "price": 648.99,
+    "description": {
+      "Brand": "Microsoft",
+      "Series": "Surface Laptop Go",
+      "Screen Size": "12.4 Inches",
+      "Color": "Ice Blue",
+      "Hard Disk Size": "128 GB",
+      "CPU Model": "Core i5-1035G1",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 10 S",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Acer 2023 Newest Aspire",
+    "url": "https://m.media-amazon.com/images/I/71RtdZ+xi4L._AC_SX355_.jpg",
+    "price": 449.99,
+    "description": {
+      "Brand": "Acer",
+      "Series": "Acer Aspire",
+      "Screen Size": "15.6 Inches",
+      "Color": "Silver/black",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Core I3 1115G4",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 10 S",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Integrated"
+    }
+  },
+  {
+    "id": 100,
+    "name": "2022 HP Premium 14-inch",
+    "url": "https://m.media-amazon.com/images/I/71-htOI+ZxL._AC_SY450_.jpg",
+    "price": 369.99,
+    "description": {
+      "Brand": "HP",
+      "Screen Size": "14 Inches",
+      "Color": "Rose Gold",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11",
+      "Graphics Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "2.6 GHz"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Lenovo 2023 Newest Ideapad",
+    "url": "https://m.media-amazon.com/images/I/71FDLqxMw2L._AC_SX355_.jpg",
+    "price": 209.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Screen Size": "14 Inches",
+      "Hard Disk Size": "128 GB",
+      "CPU Model": "Pentium",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel UHD Graphics",
+      "CPU Speed": "3.1 GHz",
+      "Hard Disk Description": "SSD"
+    }
+  },
+  {
+    "id": 102,
+    "name": "2022 Lenovo Ideapad 1i",
+    "url": "https://m.media-amazon.com/images/I/71NWyHPS-TL._AC_SX355_.jpg",
+    "price": 189.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Screen Size": "14 Inches",
+      "Color": "Cloud Grey",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron N",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11 S",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel HD Graphics 500",
+      "CPU Speed": "1.1 GHz"
+    }
+  },
+  {
+    "id": 103,
+    "name": "ASUS 2022 TUF Dash",
+    "url": "https://m.media-amazon.com/images/I/81YeP-3lfuL._AC_SY355_.jpg",
+    "price": 1359.99,
+    "description": {
+      "Brand": "ASUS",
+      "Series": "ASUS TUF Dash",
+      "Screen Size": "15.6 Inches",
+      "Color": "I7-12650H - RTX 3070 - 16GB | 512GB",
+      "CPU Model": "Core i7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Dedicated",
+      "Graphics Coprocessor": "NVIDIA GeForce RTX 3070",
+      "CPU Speed": "4.7 GHz"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Lenovo IdeaPad3 Gaming Laptop,",
+    "url": "https://m.media-amazon.com/images/I/61pKdlN3YKL._AC_SY355_.jpg",
+    "price": 749.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "Lenovo IdeaPad 3 Gaming",
+      "Screen Size": "15.6 Inches",
+      "Color": "16GB RAM | 1TB PCIe SSD",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i5",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Card Description": "Dedicated",
+      "Graphics Coprocessor": "NVIDIA GeForce GTX 1650"
+    }
+  },
+  {
+    "id": 105,
+    "name": "HP ProBook 445 G7",
+    "url": "https://m.media-amazon.com/images/I/41Fxa6eDPOL._AC_SY355_.jpg",
+    "price": 399.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "445 G7",
+      "Screen Size": "14 Inches",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Ryzen 5 4500U",
+      "Ram Memory Installed Size": "8 GB",
+      "Operating System": "Windows 10",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Integrated",
+      "CPU Speed": "2.3 GHz"
+    }
+  },
+  {
+    "id": 106,
+    "name": "LG gram (2022) 17Z90Q",
+    "url": "https://m.media-amazon.com/images/I/71Wbbw-Nd4L._AC_SY355_.jpg",
+    "price": 1196.99,
+    "description": {
+      "Brand": "LG",
+      "Series": "17Z90Q-K.AAB8U1",
+      "Screen Size": "17",
+      "Color": "Obsidian Black",
+      "Hard Disk Size": "1 TB",
+      "CPU Model": "Core i7",
+      "Ram Memory Installed Size": "16 GB",
+      "Operating System": "Windows 11 Home",
+      "Special Feature": "Lightweight",
+      "Card Description": "Intel Iris Xe"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Lenovo IdeaPad Thin and",
+    "url": "https://m.media-amazon.com/images/I/61gDmxwNuhS._AC_SY355_.jpg",
+    "price": 699.99,
+    "description": {
+      "Brand": "Lenovo",
+      "Series": "IdeaPad",
+      "Screen Size": "15.6 Inches",
+      "Color": "Sand",
+      "Hard Disk Size": "512 GB",
+      "CPU Model": "Ryzen 5",
+      "Ram Memory Installed Size": "20 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "AMD Radeon Graphics"
+    }
+  },
+  {
+    "id": 108,
+    "name": "HP Newest 14\" HD",
+    "url": "https://m.media-amazon.com/images/I/61G9Yr3n6rL._AC_SX355_.jpg",
+    "price": 212.99,
+    "description": {
+      "Brand": "HP",
+      "Series": "HP 14inch Laptop",
+      "Screen Size": "14 Inches",
+      "Color": "Dale Blue",
+      "Hard Disk Size": "64 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11",
+      "Card Description": "Integrated",
+      "Graphics Coprocessor": "Intel"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Windows 11 Laptop, BiTECOOL",
+    "url": "https://m.media-amazon.com/images/I/71V+nT0DwKL._AC_SY450_.jpg",
+    "price": 319.99,
+    "description": {
+      "Brand": "BiTECOOL",
+      "Series": "HaloBook",
+      "Screen Size": "14 Inches",
+      "Color": "Gray",
+      "Hard Disk Size": "256 GB",
+      "CPU Model": "Celeron",
+      "Ram Memory Installed Size": "12 GB",
+      "Operating System": "Windows 11 Pro",
+      "Special Feature": "High Definition Audio",
+      "Card Description": "Integrated"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Mini 5G WiFi Projector,",
+    "url": "https://m.media-amazon.com/images/I/71DUrZ728oL._AC_SY355_.jpg",
+    "price": 119.99,
+    "description": {
+      "Brand": "BJH",
+      "Recommended Uses For Product": "\u5bb6\u5ead\u5f71\u9662",
+      "Special Feature": "\u5185\u7f6e Wi-Fi",
+      "Connectivity Technology": "Wi-Fi",
+      "Display resolution": "1920 x 1080"
+    }
+  }
+]

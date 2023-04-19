@@ -1,0 +1,101 @@
+
+@media (max-width: 800px) {
+  img {
+    width: 250px;
+  }
+
+  h1 {
+    font-size: 1.2em;
+  }
+
+  h3 {
+    font-size: 1em;
+  }
+}
+
+.select-input {
+  width: 108px;
+  margin-bottom: 8px;
+}
+
+h1,
+h3 {
+  color: #f3a847;
+  text-align: center;
+}
+
+.back-link {
+  margin-top: 8px;
+}
+
+.product__description {
+  margin: 10px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product__description div {
+  background: rgb(93, 143, 159);
+  padding: 10px;
+  border-radius: 10px 20px;
+  margin: 10px 0 0 10px;
+  font-size: 12;
+  color: white;
+}
+
+input {
+  width: 100px;
+  outline: none;
+  /* border: 0; */
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+  border-radius: 38px 38px;
+  text-align: center;
+  padding: 2px;
+}
+
+input:focus {
+  outline: none;
+  border: 1px solid navy;
+  border-bottom: 3px solid rgb(0, 0, 247);
+  font-weight: bolder;
+}
+
+.add_button:hover fa-icon {
+  color: rgb(255, 207, 117);
+}
+.fullProduct-buy {
+  position: relative;
+  font-family: "Amazon Ember";
+  font-size: 13px;
+  width: 180px;
+  height: 31px;
+  background: linear-gradient(to bottom, #f7dfa5, #f0c14b);
+  border-color: #a88734 #9c7e31 #846a29;
+  border-radius: 2px;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+.fullProduct-buy-icon {
+  position: absolute;
+  background-image: url(https://m.media-amazon.com/images/G/01/adt/hiring/amazon_sprite_2x.png);
+  background-position: -70px -10px;
+  width: 50px;
+  height: 50px;
+  top: 2px;
+  left: 2px;
+  transform-origin: top left;
+  transform: scale(0.5);
+}
+
+img {
+  border-radius: 10px;
+  width: 320px;
+}
+
+.star-rating {
+  text-align: center;
+}
+
+.star-rating span {
+  color: gold;
+}

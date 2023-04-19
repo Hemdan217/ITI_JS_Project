@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Products</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="styles/spinnerLoader.css" />
+  <link rel="stylesheet" href="styles/header_footer.css" />
+  <link rel="stylesheet" href="styles/products.css" />
+  <link rel="stylesheet" href="styles/alerts.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <link rel="shortcut icon" href="media/favicon.svg" type="image/x-icon" />
+</head>
+
+<body>
+  <!-- ----------------------------------------------------------------------- -->
+  <!--                                 Spinner                                 -->
+  <!-- ----------------------------------------------------------------------- -->
+  <div class="background" style="z-index: 300">
+    <i class="fa fa-4x fa-superpowers slow"></i>
+    <i class="fa fa-4x fa-superpowers fast"></i>
+    <i class="fa fa-2x fa-amazon"></i>
+  </div>
+  <!-- ----------------------------------------------------------------------- -->
+  <!--                                 HEADER                                  -->
+  <!-- ----------------------------------------------------------------------- -->
+  <header id="container" class="navbar">
+    <div id="nav-bar">
+      <div id="nav-belt">
+        <div class="nav-left">
+          <div id="nav-logo">
+            <a href="index.html"><img src="media/logo.png" class="img-fluid" /></a>
+          </div>
+          <div id="nav-gps">
+            <i class="fa-solid fa-sm" style="color: white">Deliver&nbsp;&nbsp;To</i><br />&nbsp;
+            <i class="fa-solid fa-location-dot fa-sm" style="color: white">&nbsp;&nbsp;EGYPT</i>
+          </div>
+        </div>
+        <div class="nav-fill">
+          <div id="nav-search">
+            <form id="nav-search-bar-form">
+              <div class="nav-left">
+                <a href="">ALL&#9662;</a>
+              </div>
+              <div class="nav-fill">
+                <input type="text" id="search-bar" />
+              </div>
+              <div class="nav-right">
+                <button type="submit" id="search-submit">Search</button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="nav-right">
+          <div id="nav-tools">
+            <a href="cart.html"><i class="fa fa-shopping-cart"></i>&nbsp;Cart</a>
+          </div>
+        </div>
+        <div id="logInOut"></div>
+      </div>
+    </div>
+  </header>
+  <br>
+  <!-- ----------------------------------------------------------------------- -->
+  <!--                              END OF HEADER                              -->
+  <!-- ----------------------------------------------------------------------- -->
+  <div class="container-fluid">
+    <h1>Products</h1>
+    <p>
+      Shop home entertainment, TVs, home audio, headphones, cameras,
+      accessories and more
+    </p>
+    <br />
+    <hr />
+    <br />
+
+    <div class="container d-flex justify-content-around flex-wrap" id="content"></div>
+
+    <br />
+  </div>
+
+  <nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+      <li class="page-item"><a class="page-link" href="?page=1">1</a></li>
+      <li class="page-item"><a class="page-link" href="?page=2">2</a></li>
+      <li class="page-item"><a class="page-link" href="?page=3">3</a></li>
+      <li class="page-item"><a class="page-link" href="?page=4">4</a></li>
+      <li class="page-item"><a class="page-link" href="?page=5">5</a></li>
+    </ul>
+  </nav>
+
+  <!-- ----------------------------------------------------------------------- -->
+  <!--                             FOOTER                                      -->
+  <!-- ----------------------------------------------------------------------- -->
+  <!-- ----------------------------------------------------------------------- -->
+  <!--                              START OF FOOTER                            -->
+  <!-- ----------------------------------------------------------------------- -->
+
+  <footer>
+    <div class="top text-center" style="text-align: center; width: 100% !important">
+      <a href="#nav-top">Back to top</a>
+    </div>
+
+    <div class="middle">
+      <div class="center">
+        <ul>
+          <li>
+            <h3>Get to Know Us</h3>
+          </li>
+          <li><a href="#">Careers</a></li>
+          <li><a href="#">About Amazon</a></li>
+          <li><a href="#">Investor Relations</a></li>
+          <li><a href="#">Amazon Devices</a></li>
+        </ul>
+        <ul>
+          <li>
+            <h3>Make Money with Us</h3>
+          </li>
+          <li><a href="#">Sell on Amazon</a></li>
+          <li><a href="#">Sell Your Services on Amazon</a></li>
+          <li><a href="#">Sell on Amazon Business</a></li>
+          <li><a href="#">Sell Your Apps on Amazon</a></li>
+          <li><a href="#">Become an Affiliate</a></li>
+          <li><a href="#">Advertise Your Products</a></li>
+          <li><a href="#">Self-Publish with Us</a></li>
+          <li><a href="#">Become an Amazon Vendor</a></li>
+          <li><a href="#">Sell Your Subscription on Amazon</a></li>
+          <li><a href="#">› See all</a></li>
+        </ul>
+        <ul>
+          <li>
+            <h3>Amazon Payment Products</h3>
+          </li>
+          <li><a href="#">Amazon Rewards Visa Signature Cards</a></li>
+          <li><a href="#">Amazon.com Store Card</a></li>
+          <li><a href="#">Amazon.com Corporate Credit Line</a></li>
+          <li><a href="#">Shop with Points</a></li>
+          <li><a href="#">Credit Card Marketplace</a></li>
+          <li><a href="#">Reload Your Balance</a></li>
+          <li><a href="#">Amazon Currency Converter</a></li>
+        </ul>
+        <ul>
+          <li>
+            <h3>Let Us Help You</h3>
+          </li>
+          <li><a href="#">Your Account</a></li>
+          <li><a href="#">Your Orders</a></li>
+          <li><a href="#">Shipping Rates &amp; Policies</a></li>
+          <li><a href="#">Amazon Prime</a></li>
+          <li><a href="#">Returns &amp; Replacements</a></li>
+          <li><a href="#">Manage Your Content and Devices</a></li>
+          <li><a href="#">Amazon Assistant</a></li>
+          <li><a href="#">Help</a></li>
+        </ul>
+      </div>
+
+      <ul class="copy text-center" style="text-align: center">
+        <li><a href="#" class="logo"></a></li>
+        <li>
+          <a href="#" class="select"><i class="fa fa-globe" aria-hidden="true"></i> English</a>
+        </li>
+        <li>
+          <a href="#" class="select"><i class="flag-icon-us"></i>EGYPT</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="bottom">
+      <div class="center" style="text-align: center">
+        <ul class="copy text-center">
+          <li><a href="#">Conditions of Use</a></li>
+          <li><a href="#">Privacy Notice</a></li>
+          <li><a href="#">Interest-Based Ads</a></li>
+          <br />
+          <li>&copy; 1996-2023, Amazon.com, Inc. or its affiliates</li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+  <!-- Footer -->
+  <div class="footer"> Made&nbsp;with ❤️ in&nbsp;<a href="https://www.iti.gov.eg/iti">ITI</a>&nbsp;&nbsp;<span>©&nbsp;2023</span></div>
+
+  <!-- Footer -->
+
+  <script src="https://kit.fontawesome.com/a146fdb910.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+
+  <!-- ----------------------------------------------------------------------- -->
+  <!--                              END OF FOOTER                              -->
+  <!-- ----------------------------------------------------------------------- -->
+
+  <script src="js/products.js"></script>
+</body>
+
+</html>

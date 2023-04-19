@@ -1,0 +1,18 @@
+/* ------------card-------------- */
+
+.card {
+  margin: 10px;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+#card-link {
+  text-decoration: none;
+  color: black;
+}
+
+.star-rating span {
+  color: #ff9000;
+}
